@@ -1,3 +1,3 @@
 module geoangelotti/wasm_go
 
-go 1.15
+go 1.19
